@@ -1,0 +1,13 @@
+
+{
+  "name": "copilot-function",
+  "version": "1.0.0",
+  "description": "Azure Function for SharePoint + OpenAI integration",
+  "main": "index.js",
+  "scripts": {
+    "start": "func start"
+  },
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
